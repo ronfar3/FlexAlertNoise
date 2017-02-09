@@ -143,12 +143,5 @@ namespace FlexAlert
             writer = null;
             player = null;
         }
-
-        private bool IsOdd(uint i)
-        {
-            return i % 2 != 0;
-        }
-
-
     }
 }
